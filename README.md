@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Triyuga Little Flowers' English School
 
 A comprehensive school management system with an interactive dashboard and advanced features.
@@ -69,3 +70,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+=======
+# tlfes
+A website for school management.
+>>>>>>> b9ad29cb93093255b675cedee658c02e60aad4c8
