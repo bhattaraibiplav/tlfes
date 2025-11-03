@@ -5,6 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Triyuga Little Flowers' English School",
   description: "",
+  icons: '/logo.png'
 };
 
 export default function RootLayout({
